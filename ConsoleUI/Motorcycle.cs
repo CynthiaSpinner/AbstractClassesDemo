@@ -17,7 +17,7 @@ namespace ConsoleUI
 
         public override void DriveVirtual()
         {
-            base.DriveVirtual();
+            Console.WriteLine("love this motorcycle!");
         }
     }
 }

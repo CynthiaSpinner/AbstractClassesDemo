@@ -11,7 +11,7 @@ namespace ConsoleUI
         public string HasTrunk { get; set; } = "yes";
         public override void DriveAbstract()
         {
-            Console.WriteLine($"I'm loving my new {GetType().BaseType.Name} Written in cars");
+            Console.WriteLine($"I'm loving my new {GetType().BaseType.Name} Written in car");
         }
     }
 }

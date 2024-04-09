@@ -10,12 +10,8 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            /*
-             * Todo: Follow all comments!! 
-             * Double click on the region (gray box) to view all comments
-             */
-
-            #region Vehicles
+            
+          #region Vehicles
 
           Car car1 = new Car();
 
